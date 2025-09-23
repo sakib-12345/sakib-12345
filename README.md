@@ -3,8 +3,8 @@
 ### 🚀 About Me  
 - 🌱 Currently learning: **Machine Learning, Python, and Streamlit**  
 - 💻 Building: cool ML apps + no-code tools with Python  
-- 🎯 Goal: to land remote ML projects & build a solid portfolio  
-- ⚡ Fun fact: I break stuff just to fix it better 😅  
+- 🎯 Goal: Making ML projects & build a solid portfolio  
+
 
 ---
 
@@ -25,9 +25,9 @@
 ---
 
 ### 🌐 Connect With Me  
-[![Facebook](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile) 
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile) 
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+[![Facebook](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakibhossain.tahmid) 
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sakib_000001/?hl=en) 
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibhossaintahmid@gmail.com)  
 
 ---
 ⭐️ From [sakib-12345](https://github.com/sakib-12345)
