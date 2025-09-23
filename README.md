@@ -9,17 +9,27 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** Python, JavaScript, SQL  
-- **ML / AI:** scikit-learn, pandas, numpy, matplotlib  
-- **Web Apps:** Streamlit, Flask, FastAPI  
-- **Tools:** Git, GitHub, VS Code, Google Colab  
 
----
+#### 🔹 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib-12345&show_icons=true&theme=tokyonight)  
+#### 🔹 ML / AI  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B33?style=for-the-badge&logo=plotly&logoColor=white)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-12345&layout=compact&theme=tokyonight)  
+#### 🔹 Web Apps  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+
+#### 🔹 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)  
 
 ---
 
