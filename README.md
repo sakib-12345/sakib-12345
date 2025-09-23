@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Sakib Hossain Tahmmid  
+# 👋 Hey, I’m Sakib Hossain Tahmid  
 
 ### 🚀 About Me  
 - 🌱 Currently learning: **Machine Learning, Python, and Streamlit**  
