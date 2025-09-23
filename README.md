@@ -17,9 +17,9 @@
 ---
 
 ### 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sakib-12345&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-12345&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -29,4 +29,4 @@
 - 📧 **youremail@example.com**  
 
 ---
-⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [sakib-12345](https://github.com/sakib-12345)
