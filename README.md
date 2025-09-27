@@ -26,8 +26,8 @@
 
 ### 🌐 Connect With Me  
 [![Facebook](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakibhossain.tahmid) 
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sakib_000001/?hl=en) 
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibhossaintahmid@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sakib_000001) 
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibhossaintahmid@gmail.com) [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_sakib_00000001)
 
 ---
 ⭐️ From [sakib-12345](https://github.com/sakib-12345)
