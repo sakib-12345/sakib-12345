@@ -9,11 +9,11 @@ My focus is on building **well-documented, practical projects** that demonstrate
 
 ## About Me
 
-- 🎓 Education: HSC (Expected 2026)
-- 🌱 Currently studying: Machine Learning, Data Analysis, and Web Application Development
-- 💻 Primary language: Python
-- 🔍 Interests: Artificial Intelligence, Automation, and Applied Research
-- 🎯 Objective:
+-  Education: HSC (Expected 2026)
+-  Currently studying: Machine Learning, Data Analysis, and Web Application Development
+-  Primary language: Python
+-  Interests: Artificial Intelligence, Automation, and Applied Research
+-  Objective:
   - Build a strong project-based technical portfolio
   - Prepare for undergraduate studies in Computer Science or related fields
   - Develop skills relevant to research and industry internships
