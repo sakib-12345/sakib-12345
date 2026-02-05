@@ -63,9 +63,6 @@ My focus is on building **well-documented, practical projects** that demonstrate
 
 ## GitHub Repositories Overview
 
-![Top Languages](https://metrics.lecoq.io/sakib-12345?template=classic&languages=1&languages.limit=8)
-
-
 
 My repositories include:
 
