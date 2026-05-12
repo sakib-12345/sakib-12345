@@ -22,8 +22,6 @@ My focus is on building **well-documented, practical projects** that demonstrate
 
 ## Technical Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib-12345&layout=compact)
-
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
